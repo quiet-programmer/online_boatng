@@ -9,3 +9,4 @@
   session_destroy();
 
   Redirect::to('index.php?mg=logout successful');
+//logout.php
