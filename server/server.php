@@ -7,10 +7,10 @@
 
 	$dbconnection = mysqli_connect($server, $username, $password, $dbname);
 
-	// if (!$dbconnection) {
-	// 	print "Failed";
-	// } else {
-	// 	print "Connection was a success";
-	// }
-	//server.php
+	if (!$dbconnection) {
+		print "Failed";
+	} else {
+		print "Connection was a success";
+	}
+	server.php
 	
