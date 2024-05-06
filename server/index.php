@@ -3,3 +3,4 @@
 function Mymessage() {
 	echo "hello there";
 }
+Mymessage();
