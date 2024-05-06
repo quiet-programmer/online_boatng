@@ -70,3 +70,4 @@ function init() {
   //Init typewriter
   new TypeWriter(txtElement, words, wait);
 }
+//app.js
