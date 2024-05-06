@@ -12,7 +12,7 @@
 	 } else {
 	 	print "Connection was a success";
 	 }
-	server.php
+	//server.php
 	
 	
 
